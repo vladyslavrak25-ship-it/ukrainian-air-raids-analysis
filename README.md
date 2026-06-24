@@ -1,3 +1,6 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ТВІЙ_НІК/ukrainian-air-raids-analysis/blob/main/air_raid_analysis.ipynb)
+
+---
 # Статистичний аналіз та декомпозиція часових рядів повітряних тривог в Україні
 
 Репозиторій містить аналітичний проєкт із дослідження історичних даних повітряних тривог в Україні. Метою роботи є виявлення прихованих закономірностей, часової циклічності та аномалій у сигналах цивільного захисту за допомогою методів Data Science.

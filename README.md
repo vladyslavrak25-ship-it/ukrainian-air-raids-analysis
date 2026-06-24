@@ -32,7 +32,3 @@
 * **Бібліотеки аналізу:** `pandas`, `statsmodels`
 * **Візуалізація:** `matplotlib`, `seaborn`
 
-## 📦 Як запустити проєкт локально
-1. Переконайтеся, що у вашому середовищі встановлені необхідні пакети:
-   ```text
-   pip install pandas statsmodels matplotlib seaborn
